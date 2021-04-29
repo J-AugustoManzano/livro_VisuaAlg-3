@@ -1,4 +1,4 @@
-# Livro: VisuaAlg3 3
+# Livro: VisuAlg 3
 Programação de Computadores em Português
 
 Este livro apresenta em linguagem direta e simples as instruções para uso do interpretador de português estruturado VisuAlg 3, favorável ao ensino de lógica de programação de computadores para as aulas de: Lógica de Programação e Algoritmos ao fazer uso de uma versão de linguagem de programação codificada em português estruturado.
